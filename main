@@ -1,1 +1,10 @@
+# First get the yearly income
+yearly_income = float(input('What is your average yearly income? '))
+# Minimum yearly pay to qualify for a loan
+min_requirement = 54000
+
+
+def loan_amount():
+
+    loan_amount()
 
